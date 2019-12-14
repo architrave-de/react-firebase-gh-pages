@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-firebase-gh-pages/static/css/main.85f00866.chunk.css",
-    "main.js": "/react-firebase-gh-pages/static/js/main.c898ca74.chunk.js",
-    "main.js.map": "/react-firebase-gh-pages/static/js/main.c898ca74.chunk.js.map",
-    "runtime~main.js": "/react-firebase-gh-pages/static/js/runtime~main.1407f019.js",
-    "runtime~main.js.map": "/react-firebase-gh-pages/static/js/runtime~main.1407f019.js.map",
-    "static/css/2.6cde480f.chunk.css": "/react-firebase-gh-pages/static/css/2.6cde480f.chunk.css",
-    "static/js/2.f643b30d.chunk.js": "/react-firebase-gh-pages/static/js/2.f643b30d.chunk.js",
-    "static/js/2.f643b30d.chunk.js.map": "/react-firebase-gh-pages/static/js/2.f643b30d.chunk.js.map",
-    "index.html": "/react-firebase-gh-pages/index.html",
-    "precache-manifest.17e233fcadf6613dcd159c4749d7cc2b.js": "/react-firebase-gh-pages/precache-manifest.17e233fcadf6613dcd159c4749d7cc2b.js",
-    "service-worker.js": "/react-firebase-gh-pages/service-worker.js",
-    "static/css/2.6cde480f.chunk.css.map": "/react-firebase-gh-pages/static/css/2.6cde480f.chunk.css.map",
-    "static/css/main.85f00866.chunk.css.map": "/react-firebase-gh-pages/static/css/main.85f00866.chunk.css.map",
-    "static/media/one.svg": "/react-firebase-gh-pages/static/media/one.f15b96a1.svg",
-    "static/media/section.scss": "/react-firebase-gh-pages/static/media/ping_pong.6bc1fa42.svg",
-    "static/media/second.svg": "/react-firebase-gh-pages/static/media/second.7f4cae36.svg",
-    "static/media/third.svg": "/react-firebase-gh-pages/static/media/third.a034b65e.svg"
+    "main.css": "/https://tabletennis.architrave.de/static/css/main.fed53744.chunk.css",
+    "main.js": "/https://tabletennis.architrave.de/static/js/main.42ebc04c.chunk.js",
+    "main.js.map": "/https://tabletennis.architrave.de/static/js/main.42ebc04c.chunk.js.map",
+    "runtime~main.js": "/https://tabletennis.architrave.de/static/js/runtime~main.9e5aad89.js",
+    "runtime~main.js.map": "/https://tabletennis.architrave.de/static/js/runtime~main.9e5aad89.js.map",
+    "static/css/2.6cde480f.chunk.css": "/https://tabletennis.architrave.de/static/css/2.6cde480f.chunk.css",
+    "static/js/2.e4c56be9.chunk.js": "/https://tabletennis.architrave.de/static/js/2.e4c56be9.chunk.js",
+    "static/js/2.e4c56be9.chunk.js.map": "/https://tabletennis.architrave.de/static/js/2.e4c56be9.chunk.js.map",
+    "index.html": "/https://tabletennis.architrave.de/index.html",
+    "precache-manifest.e5b101e0b45b7ff6524afcbcf2e6241b.js": "/https://tabletennis.architrave.de/precache-manifest.e5b101e0b45b7ff6524afcbcf2e6241b.js",
+    "service-worker.js": "/https://tabletennis.architrave.de/service-worker.js",
+    "static/css/2.6cde480f.chunk.css.map": "/https://tabletennis.architrave.de/static/css/2.6cde480f.chunk.css.map",
+    "static/css/main.fed53744.chunk.css.map": "/https://tabletennis.architrave.de/static/css/main.fed53744.chunk.css.map",
+    "static/media/one.svg": "/https://tabletennis.architrave.de/static/media/one.f15b96a1.svg",
+    "static/media/section.scss": "/https://tabletennis.architrave.de/static/media/ping_pong.6bc1fa42.svg",
+    "static/media/second.svg": "/https://tabletennis.architrave.de/static/media/second.7f4cae36.svg",
+    "static/media/third.svg": "/https://tabletennis.architrave.de/static/media/third.a034b65e.svg"
   }
 }
